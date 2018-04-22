@@ -1,0 +1,12 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\17.ExamPreperationThree\HellTests\bin\Debug\netcoreapp2.0\HellTests.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\17.ExamPreperationThree\HellTests\bin\Debug\netcoreapp2.0\HellTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\17.ExamPreperationThree\HellTests\obj\Debug\netcoreapp2.0\HellTests.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\17.ExamPreperationThree\HellTests\obj\Debug\netcoreapp2.0\HellTests.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\17.ExamPreperationThree\HellTests\obj\Debug\netcoreapp2.0\HellTests.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\17.ExamPreperationThree\HellTests\obj\Debug\netcoreapp2.0\HellTests.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\17.ExamPreperationThree\HellTests\bin\Debug\netcoreapp2.0\HellTests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\17.ExamPreperationThree\HellTests\bin\Debug\netcoreapp2.0\Hell.exe
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\17.ExamPreperationThree\HellTests\bin\Debug\netcoreapp2.0\Hell.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\17.ExamPreperationThree\HellTests\bin\Debug\netcoreapp2.0\Hell.exe.config
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\17.ExamPreperationThree\HellTests\obj\Debug\netcoreapp2.0\HellTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\17.ExamPreperationThree\HellTests\obj\Debug\netcoreapp2.0\HellTests.pdb
